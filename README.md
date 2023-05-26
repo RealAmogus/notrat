@@ -6,6 +6,8 @@ Also takes screenshots
 
 Dependencies:
 
+I recommend you to compile this using Java 19.
+
 https://github.com/kwhat/jnativehook/releases/tag/2.2.2
 
 https://github.com/apache/commons-net/releases/tag/rel%2Fcommons-net-3.9.0
