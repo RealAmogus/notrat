@@ -5,6 +5,7 @@ It is a key/mouse input logger.
 Also takes screenshots
 
 Dependencies:
+
 https://github.com/kwhat/jnativehook/releases/tag/2.2.2
 
 https://github.com/apache/commons-net/releases/tag/rel%2Fcommons-net-3.9.0
